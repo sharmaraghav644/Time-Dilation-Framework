@@ -134,7 +134,7 @@ To advance the Time Dilation framework from a conceptual proof-of-concept to a p
 
 ## Links
 
-* **Research Paper (PDF):** [Time Dilation for LLM Hallucination Prevention: A Special Relativistic Approach](Time_Dilation_Updated_Paper_POC_Raghav_Sharma.pdf)
+* **Research Paper:** [Time Dilation for LLM Hallucination Prevention: A Special Relativistic Approach](https://zenodo.org/records/15844897)
 
 * **Proof of Concept (Jupyter Notebook):** [Time_Dilation_Updated_POC.ipynb](Time_Dilation_Updated_POC.ipynb)
 
