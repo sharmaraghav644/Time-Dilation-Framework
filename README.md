@@ -143,8 +143,11 @@ To advance the Time Dilation framework from a conceptual proof-of-concept to a p
 ## About the Author
 
 **Raghav Sharma**
+
 Independent Researcher
+
 ORCID iD: [0009-0000-3987-0626](https://orcid.org/0009-0000-3987-0626)
+
 Email: Sharmaraghav644@gmail.com
 
 ## Contributing
